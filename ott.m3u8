@@ -5890,191 +5890,21 @@ https://ott-balancer.tvri.go.id/live/eds/Pabar/hls/Pabar-avc1_1500000=10005-mp4a
 
 
 ==================================================================================
-							 Radio Indonesia Channel 
-==================================================================================                      
 
-#EXTINF:-1 group-title="Radio Indonesia" tvg-logo="https://hometv.biz.id/logo/music2/radio.png",Ardan Radio
-http://listento.ardanradio.com:1059/;
-
-#EXTINF:-1 group-title="Radio Indonesia" tvg-logo="https://hometv.biz.id/logo/music2/radio.png",Bahtera Yudha FM
-http://streaming.bahterayudhafm.com:8050/;stream.mp3
-
-#EXTINF:-1 group-title="Radio Indonesia" tvg-logo="https://hometv.biz.id/logo/music2/radio.png",Bali United FM
-http://sgp1.onlivestreaming.net:10690/stream
-
-#EXTINF:-1 group-title="Radio Indonesia" tvg-logo="https://hometv.biz.id/logo/music2/radio.png",Brava Radio
-http://n07.radiojar.com/5k7t0rq3bnzuv.mp3?1613997585=&rj-tok=AAABd8nJ38EAguSD-Yi56JrhPA&rj-ttl=5
-
-#EXTINF:-1 group-title="Radio Indonesia" tvg-logo="https://hometv.biz.id/logo/music2/radio.png",EBS FM
-http://streaming.suzanafm.com:8100/;stream.nsv
-
-#EXTINF:-1 group-title="Radio Indonesia" tvg-logo="https://hometv.biz.id/logo/music2/radio.png",Elshinta
-https://stream-ssl.arenastreaming.com:8000/jakarta
-
-#EXTINF:-1 group-title="Radio Indonesia" tvg-logo="https://hometv.biz.id/logo/music2/radio.png",Gamasi
-http://45.64.97.211:9504/;
-
-#EXTINF:-1 group-title="Radio Indonesia" tvg-logo="https://hometv.biz.id/logo/music2/radio.png",Gen FM Jakarta
-http://103.246.184.62:1935/noice_genfm/genfm/chunklist_w1065844643.m3u8
-
-#EXTINF:-1 group-title="Radio Indonesia" tvg-logo="https://hometv.biz.id/logo/music2/radio.png",Gen FM Surabaya
-http://103.246.184.62:1935/noice_genfmsby/gensbyic.stream/chunklist_w742138711.m3u8
-
-#EXTINF:-1 group-title="Radio Indonesia" tvg-logo="https://hometv.biz.id/logo/music2/radio.png",Genta Bali
-http://stream.werdimedia.com:8200/;
-
-#EXTINF:-1 group-title="Radio Indonesia" tvg-logo="https://hometv.biz.id/logo/music2/radio.png",Global Radio Bandung
-http://stream.radbdg.net:8000/globalradiobandung.mp3
-
-#EXTINF:-1 group-title="Radio Indonesia" tvg-logo="https://hometv.biz.id/logo/music2/radio.png",Global Radio Jakarta
-http://202.147.199.98:80/;
-
-#EXTINF:-1 group-title="Radio Indonesia" tvg-logo="https://hometv.biz.id/logo/music2/radio.png",Hard Rock FM Bali
-http://stream.radiojar.com/9k28wsbu5k8uv
-
-#EXTINF:-1 group-title="Radio Indonesia" tvg-logo="https://hometv.biz.id/logo/music2/radio.png",Hard Rock FM Bandung
-http://stream.radiojar.com/fnex9bkswk8uv
-
-
-#EXTINF:-1 group-title="Radio Indonesia" tvg-logo="https://hometv.biz.id/logo/music2/radio.png",Hard Rock FM Jakarta
-http://n09.radiojar.com/7csmg90fuqruv.mp3?1619243440=&rj-tok=AAABeQJ3Ru4AgeQosVWIZQa5rg&rj-ttl=5
-
-
-#EXTINF:-1 group-title="Radio Indonesia" tvg-logo="https://hometv.biz.id/logo/music2/radio.png",Hard Rock FM Surabaya
-http://stream.radiojar.com/yg8ne2v80k8uv
-
-#EXTINF:-1 group-title="Radio Indonesia" tvg-logo="https://hometv.biz.id/logo/music2/radio.png",Heartline Bali
-http://202.129.186.43:7028/stream
-
-#EXTINF:-1 group-title="Radio Indonesia" tvg-logo="https://hometv.biz.id/logo/music2/radio.png",Hits UNIKOM Radio
-http://hits.unikom.ac.id:9996/;
-
-#EXTINF:-1 group-title="Radio Indonesia" tvg-logo="https://hometv.biz.id/logo/music2/radio.png",iRadio Bandung
-http://stream.radiojar.com/u6ppe6hswk8uv
-
-#EXTINF:-1 group-title="Radio Indonesia" tvg-logo="https://hometv.biz.id/logo/music2/radio.png",iRadio Banjarmasin
-http://stream.radiojar.com/qfqd2aw80k8uv
-
-#EXTINF:-1 group-title="Radio Indonesia" tvg-logo="https://hometv.biz.id/logo/music2/radio.png",iRadio Jakarta
-https://stream.radiojar.com/4ywdgup3bnzuv
-
-#EXTINF:-1 group-title="Radio Indonesia" tvg-logo="https://hometv.biz.id/logo/music2/radio.png",iRadio Makassar
-http://stream.radiojar.com/seqmzfeu5k8uv
-
-#EXTINF:-1 group-title="Radio Indonesia" tvg-logo="https://hometv.biz.id/logo/music2/radio.png",iRadio Medan
-http://stream.radiojar.com/hkuevehswk8uv
-
-#EXTINF:-1 group-title="Radio Indonesia" tvg-logo="https://hometv.biz.id/logo/music2/radio.png",iRadio Yogyakarta
-http://stream.radiojar.com/hnf2cbv80k8uv
-
-#EXTINF:-1 group-title="Radio Indonesia" tvg-logo="https://hometv.biz.id/logo/music2/radio.png",Jak FM
-http://103.246.184.62:1935/noice_jakfm/jakfm/chunklist_w389732598.m3u8
-
-#EXTINF:-1 group-title="Radio Indonesia" tvg-logo="https://hometv.biz.id/logo/music2/radio.png",Jeje Radio
-https://i.klikhost.com/8026/stream
-
-#EXTINF:-1 group-title="Radio Indonesia" tvg-logo="https://hometv.biz.id/logo/music2/radio.png",Jiz FM
-https://pu.klikhost.com/proxy/jizfm/stream
-
-#EXTINF:-1 group-title="Radio Indonesia" tvg-logo="https://hometv.biz.id/logo/music2/radio.png",Kiss FM Medan
-http://live.kissfm-medan.com:8080/kissfm.mp3
-
-#EXTINF:-1 group-title="Radio Indonesia" tvg-logo="https://hometv.biz.id/logo/music2/radio.png",M Radio Surabaya
-https://c4.siar.us/proxy/mradio/stream
-
-#EXTINF:-1 group-title="Radio Indonesia" tvg-logo="https://hometv.biz.id/logo/music2/radio.png",Medan FM
-http://streaming.cityradio.id:8000/medanfm.ogg
-
-#EXTINF:-1 group-title="Radio Indonesia" tvg-logo="https://hometv.biz.id/logo/music2/radio.png",Merdeka FM
-http://streaming.merdekafm.com:8020/;stream.mp3
-
-#EXTINF:-1 group-title="Radio Indonesia" tvg-logo="https://hometv.biz.id/logo/music2/radio.png",MNC Trijaya FM Bandung
-http://stream.radbdg.net:8000/sindoradio.mp3
-
-#EXTINF:-1 group-title="Radio Indonesia" tvg-logo="https://hometv.biz.id/logo/music2/radio.png",MNC Trijaya FM Jakarta
-http://202.147.199.101:8000/;
-
-#EXTINF:-1 group-title="Radio Indonesia" tvg-logo="https://hometv.biz.id/logo/music2/radio.png",Most FM Medan
-http://u.klikhost.net:7106/;
-
-#EXTINF:-1 group-title="Radio Indonesia" tvg-logo="https://hometv.biz.id/logo/music2/radio.png",Most Radio Jakarta
-http://103.246.184.62:1935/noice_mostfm/mostfm/chunklist_w1134660637.m3u8
-
-#EXTINF:-1 group-title="Radio Indonesia" tvg-logo="https://hometv.biz.id/logo/music2/radio.png",Mustang FM
-http://103.246.184.62:1935/noice_mustangfm/mustangfm/chunklist_w1206118393.m3u8
-
-#EXTINF:-1 group-title="Radio Indonesia" tvg-logo="https://hometv.biz.id/logo/music2/radio.png",Nagaswara FM
-https://live.nagaswarafm.com:9900/strea
-m
-#EXTINF:-1 group-title="Radio Indonesia" tvg-logo="https://hometv.biz.id/logo/music2/radio.png",OZ Radio Bandung
-http://s3.vinhostmedia.com:1031/;
-
-#EXTINF:-1 group-title="Radio Indonesia" tvg-logo="https://hometv.biz.id/logo/music2/radio.png",Phoenix Radio
-https://live.phoenixradiobali.com:8250/phoenixradio
-
-#EXTINF:-1 group-title="Radio Indonesia" tvg-logo="https://hometv.biz.id/logo/music2/radio.png",Play FM Palembang
-http://66.96.237.109:8000/
-
-#EXTINF:-1 group-title="Radio Indonesia" tvg-logo="https://hometv.biz.id/logo/music2/radio.png",Prambors Radio
-https://playerservices.streamtheworld.com/api/livestream-redirect/PRAMBORS_FM.mp3?dist=onlineradiobox
-
-#EXTINF:-1 group-title="Radio Indonesia" tvg-logo="https://hometv.biz.id/logo/music2/radio.png",PTPN Radio
-https://ssg.streamingmurah.com:8040/stream
-
-#EXTINF:-1 group-title="Radio Indonesia" tvg-logo="https://hometv.biz.id/logo/music2/radio.png",Radio Andika
-http://c3.siar.us:1057/stream/1/
-
-#EXTINF:-1 group-title="Radio Indonesia" tvg-logo="https://hometv.biz.id/logo/music2/radio.png",Radio Idola
-https://server.radioidola.com:8880/idolamp3
-
-#EXTINF:-1 group-title="Radio Indonesia" tvg-logo="https://hometv.biz.id/logo/music2/radio.png",Radio Maria
-https://dreamsiteradiocp2.com/proxy/rmindonesia2?mp=/stream
-
-#EXTINF:-1 group-title="Radio Indonesia" tvg-logo="https://hometv.biz.id/logo/music2/radio.png",Radio PPI Dunia
-http://s1.voscast.com:8080/;
-
-#EXTINF:-1 group-title="Radio Indonesia" tvg-logo="https://hometv.biz.id/logo/music2/radio.png",Rhema Radio
-http://streaming.rhemaradio.com:5757/;
-
-#EXTINF:-1 group-title="Radio Indonesia" tvg-logo="https://hometv.biz.id/logo/music2/radio.png",Sonora FM Yogyakarta
-http://117.20.55.234:8008/sonorastereo
-
-#EXTINF:-1 group-title="Radio Indonesia" tvg-logo="https://hometv.biz.id/logo/music2/radio.png",SPFM Makassar
-http://i18.klikhost.net:8712/;radio.mp3
-
-#EXTINF:-1 group-title="Radio Indonesia" tvg-logo="https://hometv.biz.id/logo/music2/radio.png",Suara Kupang
-http://s3.vinhostmedia.com:9506/;
-
-#EXTINF:-1 group-title="Radio Indonesia" tvg-logo="https://hometv.biz.id/logo/music2/radio.png",Suara Mahakam
-http://u.klikhost.com:8000/suara_mahakam
-
-#EXTINF:-1 group-title="Radio Indonesia" tvg-logo="https://hometv.biz.id/logo/music2/radio.png",Suara Surabaya
-https://c5.siar.us:443/proxy/ssfm/stream
-
-#EXTINF:-1 group-title="Radio Indonesia" tvg-logo="https://hometv.biz.id/logo/music2/radio.png",Suzana FM
-http://streaming.suzanafm.com:8000/listen.pls
-
-#EXTINF:-1 group-title="Radio Indonesia" tvg-logo="https://hometv.biz.id/logo/music2/radio.png",TA Radio
-http://taradio.onlivestreaming.net:10350/stream
-
-#EXTINF:-1 group-title="Radio Indonesia" tvg-logo="https://hometv.biz.id/logo/music2/radio.png",Trax FM Palembang
-http://stream.radiojar.com/qv4muvhswk8uv
-
-#EXTINF:-1 group-title="Radio Indonesia" tvg-logo="https://hometv.biz.id/logo/music2/radio.png",Trax FM Semarang
-http://stream.radiojar.com/fr9zqhv80k8uv
-
-#EXTINF:-1 group-title="Radio Indonesia" tvg-logo="https://hometv.biz.id/logo/music2/radio.png",Trendy FM
-http://i.klikhost.net:8018/;
-
-#EXTINF:-1 group-title="Radio Indonesia" tvg-logo="https://hometv.biz.id/logo/music2/radio.png",UB Radio
-http://175.45.185.215:8000/admin
-
-#EXTINF:-1 group-title="Radio Indonesia" tvg-logo="https://hometv.biz.id/logo/music2/radio.png",UTY FM Medari
-http://utyfmedari.us.myradio.web.id:8000/utyfmedari
-
-#EXTINF:-1 group-title="Radio Indonesia" tvg-logo="https://hometv.biz.id/logo/music2/radio.png",Visi FM
-https://i.klikhost.com/8274/;stream.mp3
-
-
-
-=====================================================================
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0 (Linux; U; Android 9; SM-A730F Build/PPR1.180610.011) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.45 Mobile Safari/537.36
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=052861ebedab473089d0e7480d0c5b63:4d51aa0304af98c449fdec1548a199f9
+#EXTINF:-1 tvg-id="__" group-title="🇮🇩 SPORT ID  🇮🇩" tvg-logo="https://raw.githubusercontent.com/quuen2024/logobaru/refs/heads/queen/indosiar.png",Indo 
+https://raw.githubusercontent.com/quuen2024/king/refs/heads/queen/1nd.m3u8
+
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0 (Linux; U; Android 9; SM-A730F Build/PPR1.180610.011) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.45 Mobile Safari/537.36
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=5eaddccd893a47ac8b65f9b31963a3ae:881afa67ea57b41c1822d745d67559e6
+#EXTINF:-1 tvg-id="Indosiar.id" group-title="🇮🇩 SPORT ID  🇮🇩" tvg-logo="https://raw.githubusercontent.com/quuen2024/logobaru/refs/heads/queen/indosiar.png",Indosiar
+http://perfecttv.net:8080/live/Perfecttv/Perfecttv/1604.ts
+
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0 (Linux; U; Android 9; SM-A730F Build/PPR1.180610.011) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.45 Mobile Safari/537.36
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=052861ebedab473089d0e7480d0c5b63:4d51aa0304af98c449fdec1548a199f9
+#EXTINF:-1 tvg-id="__" group-title="🇮🇩 SPORT ID  🇮🇩" tvg-logo="https://raw.githubusercontent.com/quuen2024/logobaru/refs/heads/queen/moji.png",Moji 
+http://xtv.ooo:8080/live/30912088/60996054/350997.ts
